@@ -11,7 +11,6 @@ No frameworks, no build tools, no servers, no ads, and no tracking. Just pure, u
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Zero Dependencies](https://img.shields.io/badge/Dependencies-0-success?style=for-the-badge)
-![Client Side Only](https://img.shields.io/badge/Security-Client_Side_Only-blue?style=for-the-badge&logo=shield&logoColor=white)
 
 ---
 
